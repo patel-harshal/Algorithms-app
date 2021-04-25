@@ -1,6 +1,6 @@
 # Algorithms-App
 
-<img src="logo.png" style="height: 300px;width: 300px;">
+<img src="Logo.png" style="height: 300px;width: 300px;">
 	<h2>This application create for learn about basic of algorithm and algorithm structure. please Download and learn Today.</h2>
 
 <h3>Description:</h3>
