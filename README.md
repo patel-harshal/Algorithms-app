@@ -1,6 +1,6 @@
 # Algorithms-App
 
-<img src="Logo.png" style="height: 300px;width: 300px;">
+<img src="Logo.png" width=300px>
 	<h2>This application create for learn about basic of algorithm and algorithm structure. please Download and learn Today.</h2>
 
 <h3>Description:</h3>
@@ -41,7 +41,4 @@ See How the following Algorithms are available:
 
 <h3>App ScreenShort::</h3>
 
-<img src="screen1.png" style="height: 250px;width: 130px;">
-<img src="screen2.png" style="height: 250px;width: 130px;">
-<img src="screen3.png" style="height: 250px;width: 130px;">
-<img src="screen4.png" style="height: 250px;width: 130px;">
+<img src="screen1.png" width=200px> <img src="screen2.png" width=200px> <img src="screen3.png" width=200px> <img src="screen4.png" width=200px>
